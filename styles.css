@@ -2,7 +2,14 @@ body{
     background-color: #242f39  ;
 
 }
-
+.icon{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    }
 
     @media all and (max-width: 912px){
     .reservation{
