@@ -1,0 +1,12 @@
+body{
+    background-color: #242f39  ;
+
+}
+
+
+    @media all and (max-width: 912px){
+    .reservation{
+        display: flex;
+        flex-direction: column;
+    }
+}
